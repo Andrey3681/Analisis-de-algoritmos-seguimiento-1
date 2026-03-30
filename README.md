@@ -36,9 +36,6 @@ Algoritmos de analisis financiero/
 ├── analysis/                     # 📊 Módulo Analítico Visual
 │   └── visualizer.py             # Genera la gráfica de barras de tiempos y detecta el 'Top 15 Volumen'.
 │
-├── docs/                         # 📝 Módulo Teórico
-│   └── big_o_analysis.md         # Documentación detallada sobre la complejidad Big-O temporal y espacial de cada algoritmo.
-│
 ├── run_etl.py                    # 🚀 [Punto de Entrada 1] Ejecutar para descargar los datos.
 ├── main.py                       # 🏎️ [Punto de Entrada 2] Ejecutar para ordenar, medir tiempos y graficar.
 └── README.md                     # Documentación general del proyecto (Este archivo).
